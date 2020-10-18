@@ -31,7 +31,7 @@ In this course, I learn about the basics concepts of Machine Learning using Pyth
 ### References
 
 * [ Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-* [The Elements of Statistical Learning ] (https://web.stanford.edu/~hastie/Papers/ESLII.pdf) by par Trevor Hastie, Robert Tibshirani et Jerome Friedman
+* [The Elements of Statistical Learning ](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) by par Trevor Hastie, Robert Tibshirani et Jerome Friedman
 
 
 ## License
